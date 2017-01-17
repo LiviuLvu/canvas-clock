@@ -1,0 +1,1269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filterValue	(?)"
+			],
+			[
+				"values",
+				"values_nationality	(?)"
+			],
+			[
+				"fun",
+				"anonymous function"
+			],
+			[
+				"for",
+				"for in"
+			],
+			[
+				"alli",
+				"text-align-last"
+			],
+			[
+				"Germ",
+				"German"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"o",
+				"offset	.offset()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"setTime",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"math",
+				"Math.floor()	Math"
+			],
+			[
+				"windor",
+				"window.scrollX	Window"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"function",
+				"function with name"
+			],
+			[
+				"key",
+				"keys(obj)"
+			],
+			[
+				"define",
+				"defineProperty(obj, prop, desc)"
+			],
+			[
+				"getOwnPeo",
+				"getOwnPropertyDescriptor(obj, prop)"
+			],
+			[
+				"first",
+				"firstName	(str)"
+			],
+			[
+				"pars",
+				"parseInt(string, radix?)"
+			],
+			[
+				"proto",
+				"prototype	{}"
+			],
+			[
+				"foi",
+				"font-family"
+			],
+			[
+				"style",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"getE",
+				"getElementById(id)	Element"
+			],
+			[
+				"parse",
+				"parseFloat(string)"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"height",
+				"line-height"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"functio",
+				"function with name"
+			],
+			[
+				"oncli",
+				"ondblclick	Attr"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"togg",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"functu",
+				"new Function()	Function"
+			],
+			[
+				"paddin",
+				"padding-bottom	styl"
+			],
+			[
+				"text-al",
+				"text-align	styl"
+			],
+			[
+				"color",
+				"background-color	styl"
+			],
+			[
+				"backgrou",
+				"background-color	styl"
+			],
+			[
+				"width",
+				"width	styl"
+			],
+			[
+				"wi",
+				"width	styl"
+			],
+			[
+				"text-all",
+				"text-align	styl"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"thumbn",
+				"thumbnailSpacing"
+			],
+			[
+				"thumbnai",
+				"thumbnailWidth	(num)"
+			],
+			[
+				"thumbni",
+				"thumbnail_container"
+			],
+			[
+				"ax",
+				"max-width	styl"
+			],
+			[
+				"max-",
+				"max-width	styl"
+			],
+			[
+				"posit",
+				"position	styl"
+			],
+			[
+				"posi",
+				"position	styl"
+			],
+			[
+				"html",
+				"htmlCode	(?)"
+			],
+			[
+				"selec",
+				"selectedContinent	(?)"
+			],
+			[
+				"hei",
+				"height	styl"
+			],
+			[
+				"test",
+				"test()"
+			],
+			[
+				"sho",
+				"showCaption()"
+			],
+			[
+				"hide",
+				"hideCaption()"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"create",
+				"createCustonButtons()"
+			],
+			[
+				"removea",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"thumb",
+				"thumbnailContainerWidth	(?)"
+			],
+			[
+				"thumbnail",
+				"thumbnailContainerWidth"
+			],
+			[
+				"thum",
+				"thumbnailContainerWidth	(?)"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"index",
+				"indexOf(searchValue)	String"
+			],
+			[
+				"new",
+				"newWidth	(?)"
+			],
+			[
+				"thumbna",
+				"thumbnail_R	(num)"
+			],
+			[
+				"bor",
+				"border	styl"
+			],
+			[
+				"heigh",
+				"line-height	styl"
+			],
+			[
+				"transf",
+				"text-transform	styl"
+			],
+			[
+				"fonts",
+				"font-style	styl"
+			],
+			[
+				"bac",
+				"background-color	styl"
+			],
+			[
+				"co",
+				"color	styl"
+			],
+			[
+				"borde",
+				"border-bottom	styl"
+			],
+			[
+				"background_",
+				"background_slider"
+			],
+			[
+				"panel_co",
+				"panel_container"
+			],
+			[
+				"timel",
+				"timelineWidth	(num)"
+			],
+			[
+				"last",
+				"lastChild	Node"
+			],
+			[
+				"rg",
+				"rgba	rgba"
+			],
+			[
+				"bot",
+				"border-bottom	styl"
+			],
+			[
+				"transi",
+				"transition	styl"
+			],
+			[
+				"au",
+				"autofocus	Attr"
+			],
+			[
+				"json",
+				"jQuery.parseJSON	jQuery.parseJSON"
+			],
+			[
+				"getelemen",
+				"getElementById(id)	Element"
+			],
+			[
+				"getelem",
+				"getElementById(id)	Element"
+			],
+			[
+				"gete",
+				"getElementById(id)	Element"
+			],
+			[
+				"node",
+				"nodeValue	Node"
+			],
+			[
+				"childN",
+				"childNodes	Node"
+			],
+			[
+				"resp",
+				"responseXML	XMLHttpRequest"
+			],
+			[
+				"getelements",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"getelelm",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"xmlreq",
+				"new XMLHttpRequest()	XMLHttpRequest"
+			],
+			[
+				"respon",
+				"responseText	XMLHttpRequest"
+			],
+			[
+				"req",
+				"request	(?)"
+			],
+			[
+				"inner",
+				"innerHTML	Element"
+			],
+			[
+				"docget",
+				"document.getElementById(id)	Document"
+			],
+			[
+				"request",
+				"request	(?)"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"open",
+				"open()	Document"
+			],
+			[
+				"XMLHt",
+				"new XMLHttpRequest()	XMLHttpRequest"
+			],
+			[
+				"panel_",
+				"panel_container"
+			],
+			[
+				"newP",
+				"newPanelPosition	(num)"
+			],
+			[
+				"newLis",
+				"newListItem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"installk",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"Snippet: .index()"
+			],
+			[
+				"padding",
+				"Snippet: padding"
+			],
+			[
+				"snippe",
+				"Snippet: @css"
+			],
+			[
+				"prv:open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"text",
+				"Text Pastry: Menu"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 243.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/node/http-server/public/active/index.html",
+		"/G/node/http-server/public/active/js/composers.js",
+		"/G/node/http-server/public/active/Gruntfile.js",
+		"/G/node/http-server/public/active/package.json",
+		"/G/node/http-server/public/active/data/composers.json",
+		"/G/node/http-server/public/GitHub/composers-list/data/composers.json",
+		"/G/node/http-server/public/tutorials/audio-tag/index.html",
+		"/G/node/http-server/public/_index.html",
+		"/G/Downloads/The 50 Greatest Composers_files/lists.js",
+		"/G/Downloads/The 50 Greatest Composers_files/lists.css",
+		"/G/node/http-server/public/active/js/list.fuzzysearch.min.js",
+		"/G/node/http-server/public/active/js/main.js",
+		"/G/node/http-server/public/active/js/jsonTest.js",
+		"/G/node/http-server/public/active/CDN-css-links.html",
+		"/G/node/http-server/public/GitHub/composers-list/js/jsonTest.js",
+		"/G/Co.bat",
+		"/G/node/http-server/public/active/data/articles.json",
+		"/G/node/http-server/public/tutorials/timjs-workshop-01-javascript-citizens/app/src/app.js",
+		"/G/node/http-server/public/active/css/style.css",
+		"/G/McKenzie Crest/3D BLANK BOXES/Lists of rendered boxes/array6_adaptedToMax.txt",
+		"/G/node/http-server/public/active/css/.css",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/G/node/http-server/public/active/data/example.json",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/G/node/http-server/public/active/data-samples/composers list.txt",
+		"/G/node/http-server/public/GitHub/parallax-dark-suits/js/functions.js",
+		"/G/node/http-server/public/GitHub/parallax-dark-suits/css/style.css",
+		"/G/node/http-server/public/GitHub/parallax-dark-suits/index.html",
+		"/G/Torrent/Ai Scripts/Testing/Dimensioning inch.jsx",
+		"/G/node/http-server/public/active/js/functions.js",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.2/css/style.css",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.2/index.html",
+		"/G/node/http-server/public/GitHub/parallax-cello-header/js/functions.js",
+		"/G/node/http-server/public/GitHub/parallax-cello-header/css/style.css",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.0/js/functions.js",
+		"/G/node/http-server/public/active/css/styles.css",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.0/css/style.css",
+		"/G/node/http-server/public/active/css/sprites.css",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.1/js/functions.js",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.1/index.html",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.1/css/style.css",
+		"/G/node/http-server/public/tutorials/Parallax-on-the-Web-DevTips--0.0/index.html",
+		"/G/Downloads/sprites.css",
+		"/G/Downloads/stylesheet.css",
+		"/G/Downloads/JQExamples/002.html",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/app/index.html",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/app/src/app.js",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/03.objects.js",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/02.arrays.js",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/gulpfile.js",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/04.functions.js",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/01.primitives.js",
+		"/G/node/http-server/public/GitHub/timjs-workshop-01-javascript-citizens/package.json",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/index.html",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/src/css/main.css",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/src/js/main.js",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/src/scss/partials/_main.scss",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/src/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/css/styles.min.css",
+		"/G/node/http-server/public/tutorials/scrollmagic-template-01/src/css/normalize.min.css",
+		"/G/node/http-server/public/active/js/babelmain.js",
+		"/E/McKenzie Crest/3D BLANK BOXES/Lists of rendered boxes/array6_adaptedToMax.txt",
+		"/G/node/http-server/public/active/js/prototype-inheritance.js",
+		"/G/node/http-server/public/active/js/main.js.map",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/G/node/http-server/public/active/index.js",
+		"/G/node/http-server/public/active/js/compiled.js",
+		"/C/Users/Lvu/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/G/node/http-server/public/GitHub/canvas-clock/index.html",
+		"/G/node/http-server/public/GitHub/canvas-clock/main.js",
+		"/G/node/http-server/public/active/css/main.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"palestr",
+			"\"audiosample\":",
+			"strauss",
+			"{\n",
+			"Camille Saint-Saëns",
+			"\",\n",
+			"\"audiosample\":",
+			":",
+			"'",
+			"\"image\":",
+			"users",
+			"\"photo\":",
+			"img",
+			"span",
+			"result",
+			" ",
+			"\"nationality\":",
+			"luigi",
+			"\"sort\"",
+			"h4",
+			"died",
+			"h6",
+			"p",
+			"h4",
+			"h2",
+			"\"born\":",
+			"born",
+			"180artholdy",
+			"h6",
+			"name",
+			"born",
+			"users",
+			"each",
+			");\n",
+			"myData",
+			"console",
+			"item",
+			"map",
+			"return",
+			"parse",
+			"h2",
+			"		<",
+			"list",
+			"		<!--",
+			"pure",
+			"		<",
+			"item",
+			" ,",
+			"  ",
+			"   ",
+			"valueNames",
+			",",
+			"id",
+			"Alexander",
+			"Borodin",
+			"\"",
+			"[",
+			"]",
+			"\"",
+			"]",
+			"\"",
+			"[",
+			"\"",
+			"]",
+			"\"",
+			"[",
+			"\"",
+			"[",
+			"\"",
+			"[",
+			"\"",
+			"[",
+			"\\\\n",
+			"\"",
+			"\\\\n",
+			"]",
+			"[",
+			"\"\n   }",
+			"\"nationality\":",
+			"}, {",
+			"\"profile\":",
+			"country",
+			"<br/>",
+			"\\\\n",
+			"\\n",
+			"<br/>",
+			".",
+			",",
+			"save",
+			"-",
+			"json",
+			"\"name\"",
+			"\"born\":",
+			"   \"name\"",
+			"\"name\":",
+			"\">",
+			"class=",
+			"</a>",
+			"Johann Sebastian Bach</a>",
+			"<a href=\"/artist/",
+			"<h3 class=\"listitem_title hide_desktop\"",
+			"class=\"listitem_title hide_mobile\"",
+			"href=",
+			"a href=",
+			"</h3>",
+			"\n",
+			"(",
+			",",
+			"(",
+			" ,",
+			"  ",
+			"   ",
+			"blog-po",
+			"&& wWidth",
+			"Post Title",
+			"post",
+			"Post",
+			"large",
+			"transform: translate(100px, 20px)",
+			"logo ",
+			"content",
+			".content",
+			"footer",
+			"less",
+			"screen",
+			"margin-bottom",
+			"margin",
+			"../images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100",
+			".app-content",
+			"class=",
+			">",
+			"\"media-item\"",
+			"media",
+			"clearfix",
+			">",
+			" ",
+			"class=",
+			"week",
+			"tpl",
+			"e",
+			"tpl",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "Packages/Twitter Recess/Recess.sublime-build",
+	"project": ".gitattributes.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"data\\composers.json"
+			],
+			[
+				"compos",
+				"data\\composers.json"
+			],
+			[
+				"compo",
+				"js\\composers.js"
+			],
+			[
+				"copos",
+				"data\\composers.json"
+			],
+			[
+				"compor",
+				"data\\composers.json"
+			],
+			[
+				"",
+				"package.json"
+			],
+			[
+				"composer",
+				"data\\composers.json"
+			],
+			[
+				"compose",
+				"js\\composers.js"
+			],
+			[
+				"js",
+				"js\\jsonTest.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"comp",
+				"data\\composers.json"
+			],
+			[
+				"css",
+				"CDN-css-links.html"
+			],
+			[
+				"co",
+				"data\\composers.json"
+			],
+			[
+				"link",
+				"CDN-css-links.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"func",
+				"js\\functions.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"obj",
+				"03.objects.js"
+			],
+			[
+				"array",
+				"02.arrays.js"
+			],
+			[
+				"arr",
+				"02.arrays.js"
+			],
+			[
+				"ara",
+				"02.arrays.js"
+			],
+			[
+				"arra",
+				"02.arrays.js"
+			],
+			[
+				"proto",
+				"js\\prototype-inheritance.js"
+			],
+			[
+				"babe",
+				"js\\babelmain.js"
+			],
+			[
+				"main",
+				"js\\main.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"styl",
+				"stylesheet\\style.styl"
+			],
+			[
+				"register",
+				"registration1-draft3-e.html"
+			],
+			[
+				"step",
+				"step1-draft7-e.html"
+			],
+			[
+				"noe",
+				"stylesheet\\normalize.css"
+			],
+			[
+				"regis",
+				"registration1-draft3-e.html"
+			],
+			[
+				"steo",
+				"registration1-draft3-e.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"style",
+				"stylesheet\\style.styl"
+			],
+			[
+				"styles",
+				"stylesheet\\styles.styl"
+			],
+			[
+				"re",
+				"registration1-draft3-e.html"
+			],
+			[
+				"step1-draft7-e.html",
+				"step1-draft7-e.html"
+			],
+			[
+				"indexsty",
+				"stylesheet\\index.styl"
+			],
+			[
+				"step1",
+				"stylesheet\\step1.styl"
+			],
+			[
+				"lay",
+				"stylesheet\\layout.styl"
+			],
+			[
+				"sty",
+				"stylesheet\\layout.styl"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"sy",
+				"css\\main.styl"
+			],
+			[
+				"htl",
+				"index.html"
+			],
+			[
+				"update",
+				"src\\view\\updateBook.js"
+			],
+			[
+				"delete",
+				"src\\view\\deleteBook.js"
+			],
+			[
+				"noram",
+				"css\\normalize.css"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				".js",
+				"js\\main.js"
+			],
+			[
+				"normal",
+				"css\\normalize.css"
+			],
+			[
+				"rese",
+				"css\\reset.css"
+			],
+			[
+				"res",
+				"css\\reset.css"
+			],
+			[
+				".css",
+				"css\\style.css"
+			],
+			[
+				"htm",
+				"index.html"
+			],
+			[
+				"rou",
+				"lib\\router.js"
+			],
+			[
+				"posts_s",
+				"client\\templates\\posts\\post_submit.js"
+			],
+			[
+				"post_s",
+				"client\\templates\\posts\\post_submit.html"
+			],
+			[
+				"rout",
+				"lib\\router.js"
+			],
+			[
+				"heade",
+				"client\\templates\\includes\\header.html"
+			],
+			[
+				"rour",
+				"lib\\router.js"
+			],
+			[
+				"post_page",
+				"client\\templates\\posts\\post_page.html"
+			],
+			[
+				"abo",
+				"client\\templates\\application\\about.html"
+			],
+			[
+				"posts_list.js",
+				"client\\templates\\posts\\posts_list.js"
+			],
+			[
+				"posts",
+				"lib\\collections\\posts.js"
+			],
+			[
+				"pu",
+				"server\\publications.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
